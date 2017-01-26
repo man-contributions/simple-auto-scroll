@@ -34,3 +34,8 @@ click will stop the auto-scrolling.
 ### 5. Compatibility
 
 It works on all Chrome distribution channels: Stable, Beta and Dev.
+
+### New functions planned
+- [ ] **Time:** Just input the time in which you want to read the article and the extension would automatically determine the appropriate speed.
+- [ ] **Keyboard shortcuts:** It'd be nice to have a few keyboard shortcuts to start scrolling.
+- [ ] **PDF scrolling:** does not work currently
